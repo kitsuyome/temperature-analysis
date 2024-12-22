@@ -9,3 +9,4 @@ datetime
 aiohttp
 scikit-learn
 asyncio
+streamlit_option_menu
