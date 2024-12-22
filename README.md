@@ -8,7 +8,7 @@
 - Выбирать город для изучения сезонных профилей, аномалий и трендов
 - Сравнивать текущую температуру с историческими нормами, используя API OpenWeatherMap
 
-Проект доступен по ссылке: https://temp-analytics.streamlit.app/
+Проект доступен по ссылке: [https://temp-analytics.streamlit.app/](https://temperature-analytics.streamlit.app/)
 
 ## Структура проекта
 
